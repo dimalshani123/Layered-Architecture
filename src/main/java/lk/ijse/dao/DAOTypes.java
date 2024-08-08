@@ -1,0 +1,5 @@
+package lk.ijse.dao;
+
+public enum DAOTypes {
+    CUSTOMER,EMPLOYEE,ORDER,ORDER_DETAIL,ITEM,PRESCRIPTIONL,SUPPLIER
+}
